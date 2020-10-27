@@ -1,7 +1,7 @@
 package weathermachine;
 
 /**
- * @author 孙继峰
+ * @author LeiFeng
  * @since 2020/10/25
  */
 public interface MeasurementListener {
